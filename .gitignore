@@ -1,0 +1,7 @@
+Icon
+data/
+.DS_Store
+/.idea/inspectionProfiles/
+/.idea
+/.ipynb_checkpoints
+/Images
